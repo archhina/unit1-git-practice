@@ -134,7 +134,9 @@ git remote add origin https://github.com/archhina/unit1-git-practice.git
 git push -u origin master
 
 ### Step 6
-
+git add .
+git commmit -m "starting a menu"
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
